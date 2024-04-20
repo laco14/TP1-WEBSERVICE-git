@@ -1,2 +1,3 @@
-# TP1_webservice
-TP webservice, élèves : Pauline TELLIER, Fanny SALMON
+# TP1-WEBSERVICE-git 
+Nicolas HOLLIER-LAROUSSE 
+Ridah LARBI-DAOUADJI
